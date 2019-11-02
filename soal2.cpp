@@ -46,7 +46,7 @@ return uangbalik;
 
 int main()
 {
- int c = 250000;
+ int c = 110500;
   int uangX,proses;
   cout << "selamat datang di Vending Machine"<<endl;
   cout <<"Total Belanja : Rp "<<c<<endl;
